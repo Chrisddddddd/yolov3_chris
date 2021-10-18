@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//nets/darknet.py=gbk
+encoding//nets/yolo.py=gbk
+encoding//nets/yolo_training.py=gbk
+encoding//utils/dataloader.py=gbk
+encoding//utils/utils.py=gbk
+encoding//utils/utils_bbox.py=gbk
+encoding//utils/utils_fit.py=gbk
+encoding/train.py=gbk
+encoding/voc_annotation.py=UTF-8
+encoding/yolo.py=UTF-8
